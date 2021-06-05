@@ -1,2 +1,2 @@
-# api-automation
+# API Automation 
 Source code for API Automation Testing Course
